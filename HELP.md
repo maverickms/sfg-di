@@ -1,6 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
+
 * The original package name 'guru.springframework.sfg-di' is invalid and this project uses 'guru.springframework.sfgdi' instead.
 
 # Getting Started
